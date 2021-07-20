@@ -1,0 +1,58 @@
+.logo{
+    width: 18%;
+}
+.btn{
+    border-radius: 50px;
+}
+
+.navbar-nav{
+    padding-left: 60%;
+}
+
+.nav-link{
+    color: black;
+    font-size: 18px;
+}
+
+.navbar{
+    background-color: #f0fff0;
+}
+
+.header-sec{
+    padding-top: 70px;
+    background-color: honeydew;
+    padding-bottom: 30px;
+}
+
+.p-1{
+    color: rgb(252 91 38);
+}
+
+.p-2{
+    font-size: 60px;
+    line-height: 75px;
+}
+
+.btn-rdy{
+    background-color: rgb(33 181 115);
+    border-color: rgb(33 181 115);
+}
+
+.card-img-top {
+    
+    margin-left: 36%;
+    margin-top: 35px;
+
+}
+
+.card-text{
+    margin-top: 20px;
+}
+
+.card-deck{
+    margin-top: 80px;
+}
+.card{
+    border:none;
+    box-shadow: 1px 1px 3px;
+}
