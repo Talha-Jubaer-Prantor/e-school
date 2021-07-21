@@ -33,12 +33,15 @@
     line-height: 75px;
 }
 
+.header-content{
+    padding-left: 5%;
+}
 .btn-rdy{
     background-color: rgb(33 181 115);
     border-color: rgb(33 181 115);
 }
 
-.card-img-top {
+.top-img {
     
     margin-left: 36%;
     margin-top: 35px;
@@ -51,8 +54,14 @@
 
 .card-deck{
     margin-top: 80px;
+    padding-left: 1%;
+    padding-right: 1%;
 }
-.card{
+.crd{
     border:none;
-    box-shadow: 1px 1px 3px;
+    
 }
+
+.crd:hover {
+    box-shadow: 1px 1px 3px;
+  }
