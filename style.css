@@ -54,6 +54,7 @@
 
 .card-deck{
     margin-top: 80px;
+    margin-bottom: 80px;
     padding-left: 1%;
     padding-right: 1%;
 }
@@ -65,3 +66,36 @@
 .crd:hover {
     box-shadow: 1px 1px 3px;
   }
+
+  .author-sec{
+
+  }
+
+  .author-pic{
+     margin-left: 70%;
+  }
+
+  .author-text{
+      padding-right: 15%;
+      text-align: justify;
+  }
+
+
+.author-sec{
+    margin-bottom: 80px;
+}
+
+.footer-content{
+    padding-left: 12%;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.course-list{
+    padding-left: 7%;
+}
+
+footer{
+    background-color: #282531;
+    color: white;
+}
